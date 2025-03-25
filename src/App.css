@@ -68,7 +68,7 @@ body {
 
 .input-password input,
 .input-container input {
-  padding-right: 40px; /* Espacio para el icono */
+  padding-right: 40px; 
 }
 
 .input-password .eye-icon,
@@ -81,7 +81,7 @@ body {
 }
 
 .telefono {
-  margin-top: 10px; /* Espaciado entre el correo y el teléfono */
+  margin-top: 10px; 
 }
 
 .form-container button {
